@@ -1,0 +1,23 @@
+﻿{
+    "Tmax":110,
+    "InertMoment":10,
+    "HeatingTorque":0.01,
+    "HeatingRotSpeed":0.0001,
+    "CoolingRate":0.1,
+    "Torque":[
+        20,
+        75,
+        100,
+        105,
+        75,
+        0
+    ],
+    "CrankSRotSpeed":[
+        0,
+        75,
+        150,
+        200,
+        250,
+        300
+    ]
+}
