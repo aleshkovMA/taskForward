@@ -20,6 +20,7 @@ namespace testTask
         const string FILE_NAME = "engineData.json";
         public static void Main(string[] args)
         {
+            //Организация загрузки данных модели из файла JSON
             var path = Path.Combine(Environment.CurrentDirectory, FILE_NAME);
             string fs = File.ReadAllText(path);
  
